@@ -92,8 +92,38 @@
         padding: 2.5rem 0
      }
     
-         .pricestewikqmjie8 .icon{
-            max-height: 60px
+         .pricestewikqmjie8 .btn-primary{
+            background-color: #0FB78D;
+            border-color: #0FB78D
          }
+         .pricestewikqmjie8 .btn-primary:hover,
+         .pricestewikqmjie8 .btn-primary:not(:disabled):not(.disabled):active,
+         .pricestewikqmjie8 .btn-primary:focus{
+            color: #fff;
+            background-color: #0FB78D;
+            border-color: #0FB78D
+        }
+        .pricestewikqmjie8 h1{
+            font-size: 32px
+        }
     /* #purves(pricestewikqmjie8) #css ends  */
 /*****purves*****/
+
+/*****ted*****/
+    /* #ted(testimonialprqwl7a4x8r) #css starts  */
+    .testimonialprqwl7a4x8r {
+        padding: 2.5rem 0
+    }
+    .testimonialprqwl7a4x8r h1{
+        font-size: 32px
+    }
+    /* #ted(testimonialprqwl7a4x8r) #css ends  */
+/*****ted*****/
+
+/*****fanus*****/
+ /* #fanus(b5f31747c48ae942) #css starts */
+ .footerb5f31747c48ae942{
+    overflow: hidden
+ }
+/* #fanus(b5f31747c48ae942) #css ends */
+/*****fanus*****/
