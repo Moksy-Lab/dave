@@ -5,8 +5,7 @@
 }
 .headere2d79a3ca0c8814a .button{
     background-color: #0FB78D;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    font-weight: bold;
+    border-radius: 20px 20px;
     color: #fff
 }
 .headere2d79a3ca0c8814a .navbar-light .navbar-nav .active>.nav-link{
@@ -57,3 +56,44 @@
  }
 /* #foster(fosterftsjsdoaie6) #css starts */
 /*****foster*****/
+
+/*****baru*****/
+    /* #baru(e9815bebb7496bd) #css starts  */
+    .bannere9815bebb7496bd .page-title { 
+        font-size: 32px
+    }
+        /* #baru(e9815bebb7496bd) #css ends  */
+/*****baru*****/
+
+/*****agun*****/
+/* #agun(e50d5193e4b9f737) #css starts  */
+.aboute50d5193e4b9f737 {
+    padding: 2.5rem 0
+}
+.aboute50d5193e4b9f737 h2{
+    font-size: 32px
+}
+.aboute50d5193e4b9f737 .margin{
+    margin-left: -40px
+}
+.aboute50d5193e4b9f737 .searchBtn{
+        background-color:#0FB78D;
+        border-radius: 20px 20px;
+        color: white;
+        padding: 6px 12px;
+        font-weight: bold
+    }
+/* #agun(e50d5193e4b9f737) #css ends  */
+/*****agun*****/
+
+/*****purves*****/
+    /* #purves(pricestewikqmjie8) #css starts  */
+    .pricestewikqmjie8 .fdb-block {
+        padding: 2.5rem 0
+     }
+    
+         .pricestewikqmjie8 .icon{
+            max-height: 60px
+         }
+    /* #purves(pricestewikqmjie8) #css ends  */
+/*****purves*****/
