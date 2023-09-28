@@ -1,0 +1,59 @@
+/*****hasis*****/ 
+/* #hasis(e2d79a3ca0c8814a) #css starts  */
+.headere2d79a3ca0c8814a .head{ 
+    color: #0FB78D
+}
+.headere2d79a3ca0c8814a .button{
+    background-color: #0FB78D;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-weight: bold;
+    color: #fff
+}
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .active>.nav-link{
+    color: rgba(0,0,0,.5)
+}
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .nav-link:hover {
+    color: #0FB78D
+}
+/* #hasis(e2d79a3ca0c8814a) #css ends  */
+/*****hasis*****/
+
+/*****atami*****/
+ /* #atami(d390a380620aac0e) #css starts  */
+ .aboutd390a380620aac0e{
+    padding: 2.5rem 0
+ }
+
+.aboutd390a380620aac0e .video_card::before {
+    background-color: #0FB78D
+}
+
+.aboutd390a380620aac0e .video_card>.btn {
+    color: #0FB78D;
+}
+
+.aboutd390a380620aac0e .video_card>.btn:active {
+    color: #0FB78D;
+    background: rgba(255, 255, 255, 0.5)
+}
+/* #atami(d390a380620aac0e) #css ends  */
+/*****atami*****/
+
+/*****freya*****/
+/* #freya(freyategxpfzk1ni) #css starts */
+.freyategxpfzk1ni .fdb-block {
+    padding: 2.5rem 0
+  }
+      .freyategxpfzk1ni   .fdb-block .fdb-touch {
+      border-top: solid 0.3125rem #0FB78D
+     }
+/* #freya(freyategxpfzk1ni) #css starts */
+/*****freya*****/
+
+/*****foster*****/
+/* #foster(fosterftsjsdoaie6) #css starts */
+.fosterftsjsdoaie6 .fdb-block {
+    padding: 2.5rem 0
+ }
+/* #foster(fosterftsjsdoaie6) #css starts */
+/*****foster*****/
