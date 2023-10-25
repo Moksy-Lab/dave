@@ -22,7 +22,9 @@
  .aboutd390a380620aac0e{
     padding: 2.5rem 0
  }
-
+ .aboutd390a380620aac0e h2{
+    font-size: 44px
+ }
 .aboutd390a380620aac0e .video_card::before {
     background-color: #0FB78D
 }
@@ -117,6 +119,11 @@
     .testimonialprqwl7a4x8r h1{
         font-size: 32px
     }
+
+    @media (min-width: 1200px)
+    .testimonialprqwl7a4x8r .mt-xl-5, .my-xl-5 {
+    margin-top: 1rem!important
+}
     /* #ted(testimonialprqwl7a4x8r) #css ends  */
 /*****ted*****/
 
@@ -125,5 +132,8 @@
  .footerb5f31747c48ae942{
     overflow: hidden
  }
+ .footerb5f31747c48ae942 .footer-wrap h3 {
+    font-weight: 600
+}
 /* #fanus(b5f31747c48ae942) #css ends */
 /*****fanus*****/
