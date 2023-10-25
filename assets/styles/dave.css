@@ -135,5 +135,8 @@
  .footerb5f31747c48ae942 .footer-wrap h3 {
     font-weight: 600
 }
+.footerb5f31747c48ae942 footer .newsletter input[type="text"]:focus-visible {
+      outline: none
+}
 /* #fanus(b5f31747c48ae942) #css ends */
 /*****fanus*****/
