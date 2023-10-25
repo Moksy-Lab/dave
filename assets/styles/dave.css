@@ -138,5 +138,8 @@
 .footerb5f31747c48ae942 footer .newsletter input[type="text"]:focus-visible {
       outline: none
 }
+.footerb5f31747c48ae942 .copyright {
+    border-top: none
+}
 /* #fanus(b5f31747c48ae942) #css ends */
 /*****fanus*****/
